@@ -1,0 +1,3 @@
+class Object
+  def count_stuff: (untyped massive) -> untyped
+end

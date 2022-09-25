@@ -1,0 +1,4 @@
+class Object
+  # def duplicate encoder = если есть одинаковые элементы, то ставим ')', иначе '('
+  def duplicate_encoder: (untyped text) -> untyped
+end
